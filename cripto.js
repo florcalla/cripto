@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         cripto
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @author       Flxr
 // @require       https://cdnjs.cloudflare.com/ajax/libs/aes-js/3.1.2/index.min.js
@@ -9,7 +9,7 @@
 // @grant        none
 // ==/UserScript==
 
-
+//uwu
 //VECTOR inicial iv es necesario en hexadecimal de 32 digitos de largo
 var iv = document.getElementsByClassName('iv')[0].id;
 var iv_bytes = aesjs.utils.hex.toBytes(iv);
