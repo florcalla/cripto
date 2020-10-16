@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.3
 // @description  try to take over the world!
+// @updateURL    https://raw.githubusercontent.com/florcalla/cripto/master/cripto.js
 // @author       Flxr
 // @require       https://cdnjs.cloudflare.com/ajax/libs/aes-js/3.1.2/index.min.js
 // @match       https://florcalla.github.io/cripto/
