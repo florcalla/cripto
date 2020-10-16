@@ -9,7 +9,7 @@
 // @grant        none
 // ==/UserScript==
 
-
+//uwu
 //VECTOR inicial iv es necesario en hexadecimal de 32 digitos de largo
 var iv = document.getElementsByClassName('iv')[0].id;
 var iv_bytes = aesjs.utils.hex.toBytes(iv);
